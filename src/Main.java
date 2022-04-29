@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 
 public class Main {
-
+    //hajaaa
     public static void main(String[] args) throws Exception {
 //        String str = "zoo1.json";
         String str = "zoo.txt";
