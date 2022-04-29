@@ -1,0 +1,5 @@
+Name, Weight, Type
+Wojtek, 119.92, Lion
+Tomek, 99.92, Lion
+Kuba, 9.4, Penguin
+Wacek, 6.4, Penguin

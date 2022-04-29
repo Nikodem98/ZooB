@@ -1,0 +1,30 @@
+[
+  { "animalType" : "Lion",
+    "properties" : {
+      "name": "Jacek",
+      "weight": 120,
+      "animalType" : "Lion"
+    }
+  },
+  { "animalType" : "Lion",
+    "properties" : {
+      "name": "Tomek",
+      "weight": 100,
+      "animalType" : "Lion"
+    }
+  },
+  { "animalType" : "Penguin",
+    "properties" : {
+      "name": "Wacek",
+      "weight": 13,
+      "animalType" : "Penguin"
+    }
+  },
+  { "animalType" : "Penguin",
+    "properties" : {
+      "name": "Kuba",
+      "weight": 10,
+      "animalType" : "Penguin"
+    }
+  }
+]
